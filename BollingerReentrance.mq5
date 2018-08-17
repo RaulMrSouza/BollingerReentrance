@@ -1,4 +1,12 @@
 //+------------------------------------------------------------------+ 
+//|                                          BollingerReentrance.mq5 | 
+//|                          Altered version of Demo_iBands.mq5 from |
+//|                  https://www.mql5.com/en/docs/indicators/ibands  |
+//|         this one display arrows for possible buy and sell trades |                    
+//|                                             https://www.mql5.com | 
+//+------------------------------------------------------------------+ 
+
+//+------------------------------------------------------------------+ 
 //|                                                  Demo_iBands.mq5 | 
 //|                        Copyright 2011, MetaQuotes Software Corp. | 
 //|                                             https://www.mql5.com | 
